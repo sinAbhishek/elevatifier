@@ -1,0 +1,8 @@
+.hide {
+    transform: translateX(-100%);
+    transition: 1s;
+}
+
+.cat {
+    transition: 1s;
+}
